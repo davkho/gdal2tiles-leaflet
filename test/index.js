@@ -95,7 +95,7 @@ function init() {
 	});
 	map.addLayer(layerCountries);
 
-	var imgDir = "leaflet-0.7.3/images/";
+	var imgDir = "images/";
 
 	var redMarker = L.icon({
 		iconUrl: imgDir + 'marker-icon-red.png',
